@@ -1,0 +1,58 @@
+.col-main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.std p {
+  margin-bottom: 10px;
+}
+
+.padding-s {
+  padding: 20px;
+}
+
+.std {
+  line-height: 1.6;
+}
+
+.page-title {
+  margin-bottom: 20px;
+}
+
+.custom-servis-icon {
+  margin-bottom: 15px;
+}
+
+#delivery-table {
+  margin-bottom: 20px;
+}
+
+#delivery-table table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#delivery-table td {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+#delivery-table .title {
+  font-weight: bold;
+}
+
+.std ul {
+  padding-left: 20px;
+  margin-bottom: 15px;
+  margin-left: 20px;
+}
+
+.std hr {
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 20px 0;
+}
